@@ -12,7 +12,7 @@ from ktrain import text
 
 
 
-# Specifying the title of the Wikipedia page which to be extracted
+# Specifying the title of the Wikipedia page which is to be extracted
 wiki = wikipedia.page('Pablo Picasso')
 
 # Extracting the plain text content of the page
